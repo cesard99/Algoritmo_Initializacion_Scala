@@ -1,0 +1,4 @@
+[debug] [init-test] Classpath dependencies List()
+[debug] [init-test] Dependencies from configurations List(init)
+[debug] Bloop wrote the configuration of project 'init-test' to '/home/cesar-escalona/Cesar/Proyectos/Intializing Algoritm/init/.bloop/init-test.json'
+[success] Generated .bloop/init-test.json

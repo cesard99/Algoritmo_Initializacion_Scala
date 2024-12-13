@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = /home/cesar-escalona/Cesar/Proyectos/Intializing Algoritm/init/project/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = /home/cesar-escalona/Cesar/Proyectos/Intializing Algoritm/init/project/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /home/cesar-escalona/Cesar/Proyectos/Intializing Algoritm/init/project/project/target/scala-2.12/sbt-1.0/classes.bak
